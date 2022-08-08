@@ -1,1 +1,1 @@
-# string.h-sprintf
+Реализация стандартной библиотеки string.h и функции sprintf().
